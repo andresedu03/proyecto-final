@@ -25,3 +25,11 @@ header {
   color: #ffffff;
   text-decoration: none;
 }
+
+.espaciado {
+  line-height: 55px;
+}
+
+.espaciado2 {
+  line-height: 40px;
+}
